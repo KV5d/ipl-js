@@ -1,0 +1,17 @@
+{
+  "name": "ipl",
+  "version": "1.0.0",
+  "description": "IP address geo-locator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KV5d",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "caxa": "^2.1.0",
+    "pkg": "^5.7.0",
+    "yargs": "13.2"
+  }
+}
